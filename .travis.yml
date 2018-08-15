@@ -1,3 +1,5 @@
 language: java
 jkd:
   - oraclejdk8
+services:
+  - mysql
